@@ -70,7 +70,7 @@ To run the overview page, you need to install the zipfile and extract its conten
    ```
 4. Open the Index.html
    ```js
-  Index.html
+   Index.html
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
